@@ -20,11 +20,13 @@ body {
 }
 
 body > header:first-of-type {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f3/Prospect_Park_Entrance_From_Memorial_Arch.jpg");
-  height: 200px;
-  width: 100%;
-  background-position-y: 46%; 
+  background-image: url("img/cover.jpg");
+  background-repeat: no-repeat;
+  height: 400px; 
+  /* width: 100%;  */
   text-align: center;
+  background-size: cover;
+  background-position-y: 70%;
 }
 
  body > nav .container img {
