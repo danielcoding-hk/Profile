@@ -1,3 +1,3 @@
 # My Person Website
-## - by AWS
+- by AWS
 
