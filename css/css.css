@@ -20,7 +20,7 @@ body {
 }
 
 body > header:first-of-type {
-  background-image: url("img/cover.jpg");
+  background-image: url("../img/cover.jpg");
   background-repeat: no-repeat;
   height: 400px; 
   /* width: 100%;  */
@@ -305,14 +305,14 @@ section#main > div article#projects ul li > ul:last-of-type li i{
   left: 0;
   top: 0;
   width: 100%;
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(img/cover.jpg);
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/cover.jpg);
   height: 375px;
   z-index: -2;
   box-shadow: 0 0 0 0,0 6px 12px rgba(34,34,34,0.1);
 }
 
 body > header#post-header {
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(img/cover.jpg);
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/cover.jpg);
   min-height: 322px;
   color: #fff;
   text-align: center;
