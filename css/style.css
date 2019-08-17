@@ -141,6 +141,16 @@ ul#services li{
   background:#e6e6e6;
 }
 
+#Contact img{
+  width: 30px;
+  margin-bottom: 10px;
+}
+
+#Contact span{
+    color: #35424a;
+    margin: 10px;
+}
+
 footer{
   padding:5px;
   margin-top:20px;
@@ -166,8 +176,14 @@ footer{
     padding-bottom:20px;
   }
 
+  #showcase{
+    min-height:350px;
+  }
+
   #showcase h1{
     margin-top:40px;
+    font-size:40px;
   }
+
 
 }
