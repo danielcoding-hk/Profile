@@ -81,14 +81,14 @@ header a:hover{
 
 /* Showcase */
 #showcase{
-  min-height:400px;
+  min-height:450px;
   background:url('../img/showcase.jpg') no-repeat 0 -400px;
   text-align:center;
   color:#ffffff;
 }
 
 #showcase h1{
-  margin-top:100px;
+  margin-top:20px;
   font-size:55px;
   margin-bottom:10px;
 }
@@ -97,6 +97,9 @@ header a:hover{
   font-size:20px;
 }
 
+#profileimg{
+  margin-top:50px;
+}
 
 /* Boxes */
 #boxes{
@@ -132,8 +135,8 @@ article#main-col{
   width:65%;
 }
 
-/* Services */
-ul#services li{
+/* Portfolio */
+ul#Portfolio li{
   list-style: none;
   padding:20px;
   border: #cccccc solid 1px;
